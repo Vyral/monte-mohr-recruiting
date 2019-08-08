@@ -9,6 +9,12 @@ custom_links:
     url: #
   - title: Free Strategy Call
     url: /contact/
+  - title: Free Trainings
+    url: /training/
+  - title: About Us
+    url: /about/
+  - title: Radio Show
+    url: http://www.talkmusiccity.podbean.com/?fbclid=IwAR0AtR-USmTy31k_9B0O6t0N8Wmp_9K5pp3Qkk9OlmDiZeQj9tsNCmL1fIA
 client:
   name: Monte Mohr
   title:
@@ -60,7 +66,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url:
-  linkedin_url:
+  linkedin_url: https://www.linkedin.com/in/mohr-nashville-realestatebroker/
   gplus_url:
   youtube_url:
   twitter_url:
