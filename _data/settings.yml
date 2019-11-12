@@ -15,6 +15,9 @@ custom_links:
     url: /about/
   - title: Radio Show
     url: http://www.talkmusiccity.podbean.com/?fbclid=IwAR0AtR-USmTy31k_9B0O6t0N8Wmp_9K5pp3Qkk9OlmDiZeQj9tsNCmL1fIA
+  - title: Privacy Policy
+    url: /privacy/
+
 client:
   name: Monte Mohr
   title:
