@@ -1,5 +1,5 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
+  - quote: "Monte has such an incredible reputation of taking care of his clients. He has been in the business for over 30 years and with billions of dollars in sales, he has given me the inspiration that I can do it too. One thing that Monte does as far as training goes, that has made a lasting impression is his encouragement to be creative and step outside the box of normal realtors. He really empowers you to be as creative as possible in this competitive landscape and also allows us to be the best resource for our clients at all times."
     name:
-    audio:
+    youtube_code: qGHzxbUfCA4
