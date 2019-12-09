@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monte Mohr''s Journey: Chapter II'
-date:
+date: 2019-12-09 16:25:19
 tags:
 excerpt:
 enclosure:
