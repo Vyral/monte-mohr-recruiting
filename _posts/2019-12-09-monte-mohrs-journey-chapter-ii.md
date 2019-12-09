@@ -18,5 +18,3 @@ In this interview, hear how Monte overcame the struggles of the market crash, wh
 If you haven't yet watched the first segment of Monte Mohr's journey, check it out [here\!](https://nashvillerealestatemastermind.com/agent-interview-monte-mohrs-journey.html){: target="_blank"}&nbsp;
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
