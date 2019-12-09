@@ -13,9 +13,9 @@ youtube_alternate_image:
 youtube_code: TgYX1YWZaxQ
 ---
 
-If you haven't yet watched the first segment of Monte Mohr's journey, check it out [here\!](https://nashvillerealestatemastermind.com/agent-interview-monte-mohrs-journey.html){: target="_blank"}&nbsp;
-
 In this interview, hear how Monte overcame the struggles of the market crash, why thinking out of the box is important in real estate, and the things he does to get through these struggles.
+
+If you haven't yet watched the first segment of Monte Mohr's journey, check it out [here\!](https://nashvillerealestatemastermind.com/agent-interview-monte-mohrs-journey.html){: target="_blank"}&nbsp;
 
 {% include youtube.html %}
 
