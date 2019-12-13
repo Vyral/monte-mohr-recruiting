@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REAL ESTATE AGENT CHALLENGE! How you can earn $1,000 in 45 minutes!'
-date:
+date: 2019-12-13 15:26:43
 tags:
 excerpt:
 enclosure:
