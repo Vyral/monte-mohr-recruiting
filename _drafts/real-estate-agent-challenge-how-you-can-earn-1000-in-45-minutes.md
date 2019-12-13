@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Estate Agent Challenge!
+title: 'REAL ESTATE AGENT CHALLENGE! How you can earn $1,000 in 45 minutes!'
 date:
 tags:
 excerpt:
