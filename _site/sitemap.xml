@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/monte-mohrs-journey-chapter-i.html</loc>
+<lastmod>2019-12-06T08:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/monte-mohrs-journey-chapter-ii.html</loc>
+<lastmod>2019-12-09T10:25:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/real-estate-agent-challenge-how-you-can-earn-1000-in-45-minutes.html</loc>
+<lastmod>2019-12-13T09:26:43-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-to-maximize-your-listings-that-might-upset-the-competition.html</loc>
+<lastmod>2019-12-16T10:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -20,6 +36,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/privacy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/results/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>
