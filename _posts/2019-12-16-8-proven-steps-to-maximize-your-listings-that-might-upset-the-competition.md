@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8 Proven Steps to Maximize Your Listings That Might Upset Off the Competition
+title: 8 Proven Steps to Maximize Your Listings That Might Upset the Competition
 date: 2019-12-16 16:00:00
 tags:
   - Listing Presentation
