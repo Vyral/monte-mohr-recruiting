@@ -4,7 +4,7 @@ title: 8 Proven Steps to Maximize Your Listings That Might Upset the Competition
 date: 2019-12-16 16:00:00
 tags:
   - Listing Presentation
-excerpt:
+excerpt: 'From photos to signage, here’s what you need to know about listings'
 enclosure:
 pullquote: >-
   Create the fear of loss: keep buyers thinking that your home could go off the
