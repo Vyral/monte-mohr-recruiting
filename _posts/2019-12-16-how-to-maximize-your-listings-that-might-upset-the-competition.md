@@ -32,3 +32,6 @@ Here are the eight steps that I’ve integrated into my approach:&nbsp;
 8. **Have a hook.**&nbsp;Create a hook that speaks to a pain point of people walking in to the house.&nbsp;
 
 Check out the full training, where I go more in-depth with these 8 steps, and also download the free PDF by clicking here.&nbsp;
+
+<iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="100%" height="500px">
+    </iframe>
