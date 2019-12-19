@@ -4,6 +4,7 @@ title: How to Maximize Your Listings That Might Upset the Competition
 date: 2019-12-16 16:00:00
 tags:
   - Listing Presentation
+  - Free Training
 excerpt: 'From photos to signage, here’s what you need to know about listings'
 enclosure:
 pullquote: >-
@@ -31,7 +32,7 @@ Here are the eight steps that I’ve integrated into my approach:&nbsp;
 7. **Get a partner.** Make sure you have a partner with you; when people try to capture everyone on their own, they end up capturing no one.&nbsp;
 8. **Have a hook.**&nbsp;Create a hook that speaks to a pain point of people walking in to the house.&nbsp;
 
-Check out the full training, where I go more in-depth with these 8 steps, and also download the free PDF by clicking here.&nbsp;
+Check out the full training, where I go more in-depth with these 8 steps, and also <a href="/uploads/listing.pdf" target="_blank">download the free PDF by clicking here</a>.&nbsp;
 
-<iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="100%" height="500px">
+<iframe src="/uploads/listing.pdf" width="100%" height="500px">
     </iframe>
