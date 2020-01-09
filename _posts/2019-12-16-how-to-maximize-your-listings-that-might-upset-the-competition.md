@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /monte2.png
 youtube_code: yDBQeieOVcA
-display: true
+home_display: true
 ---
 
 I’ve been in the real estate business for over 35 years, and during that time I’ve helped over 3,000 families with their real estate needs. Over the years, I developed a nearly full-proof technique to maximize a home’s value and capture an additional two to three buyers on almost every listing. For example, do you know the exact time you should activate your listing? To learn about my eight proven steps, watch this short video.

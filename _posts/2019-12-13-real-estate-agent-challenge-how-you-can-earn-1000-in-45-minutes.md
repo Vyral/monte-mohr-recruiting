@@ -11,7 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 7IxZoKL-UGg
-display: true
+home_display: true
 ---
 
 Are you a real estate agent? Do you want to get a $1,000 check in 45 minutes? I have a challenge for you\!\!&nbsp;

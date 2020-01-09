@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /monte2.png
 youtube_code: R-zC_vTCfTo
-display: false
+home_display: false
 ---
 
 {% include youtube.html %}
