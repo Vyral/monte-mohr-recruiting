@@ -11,6 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: NWmRMkfpayE
+display: true
 ---
 
 Hear how Monte Mohr got into real estate, his early struggles, and how real estate has changed his life in the first part of Monte's story.&nbsp;

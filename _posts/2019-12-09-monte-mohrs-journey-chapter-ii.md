@@ -11,6 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: TgYX1YWZaxQ
+display: true
 ---
 
 In this interview, hear how Monte overcame the struggles of the market crash, why thinking out of the box is important in real estate, and the things he does to get through these struggles.

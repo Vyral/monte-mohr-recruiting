@@ -5,9 +5,28 @@
     <description>Monte Mohr, a top Real Estate Agent in Middle Tennessee, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Dec 2019 14:45:55 -0600</pubDate>
-    <lastBuildDate>Fri, 27 Dec 2019 14:45:55 -0600</lastBuildDate>
+    <pubDate>Thu, 09 Jan 2020 12:43:46 -0600</pubDate>
+    <lastBuildDate>Thu, 09 Jan 2020 12:43:46 -0600</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>How to Maximize Your Listings That Might Upset the Competition</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/R-zC_vTCfTo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Check out the full training, where I go more in-depth with these 8 steps, and also &lt;a href=&quot;/uploads/listing.pdf&quot; target=&quot;_blank&quot;&gt;download the free PDF by clicking here&lt;/a&gt;. &lt;/p&gt;
+
+&lt;iframe src=&quot;/uploads/listing.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 16 Dec 2019 10:00:00 -0600</pubDate>
+        <link>http://localhost:4000/how-to-maximize-your-listings-that-might-upset-the-competition.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-maximize-your-listings-that-might-upset-the-competition.html</guid>
+        
+        <category>Listing Presentation</category>
+        
+        <category>Free Training</category>
+        
+        
+      </item>
     
       <item>
         <title>How to Maximize Your Listings That Might Upset the Competition</title>
@@ -69,6 +88,7 @@
 &lt;p&gt;If you haven’t yet watched the first segment of Monte Mohr’s journey, check it out &lt;a href=&quot;https://nashvillerealestatemastermind.com/agent-interview-monte-mohrs-journey.html&quot; target=&quot;_blank&quot;&gt;here!&lt;/a&gt; &lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TgYX1YWZaxQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 </description>
         <pubDate>Mon, 09 Dec 2019 10:25:00 -0600</pubDate>
         <link>http://localhost:4000/monte-mohrs-journey-chapter-ii.html</link>
