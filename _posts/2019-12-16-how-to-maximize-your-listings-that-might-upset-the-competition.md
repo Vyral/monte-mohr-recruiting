@@ -4,7 +4,6 @@ title: How to Maximize Your Listings That Might Upset the Competition
 date: 2019-12-16 16:00:00
 tags:
   - Listing Presentation
-  - Free Training
 excerpt: 'From photos to signage, here’s what you need to know about listings'
 enclosure:
 pullquote: >-
