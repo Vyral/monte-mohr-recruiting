@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /monte2.png
+youtube_alternate_image:
 youtube_code: R-zC_vTCfTo
 home_display: false
 ---
