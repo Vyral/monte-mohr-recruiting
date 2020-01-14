@@ -4,17 +4,16 @@ title: How to Maximize Your Listings That Might Upset the Competition
 date: 2019-12-16 16:00:00
 tags:
   - Listing Presentation
+  - Free Training
 excerpt: 'From photos to signage, here’s what you need to know about listings'
 enclosure:
-pullquote: >-
-  Remember you are creating the greatest influence in the world: the fear of
-  loss.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /monte2.png
-youtube_code: yDBQeieOVcA
-home_display: true
+youtube_code: R-zC_vTCfTo
+home_display: false
 ---
 
 I’ve been in the real estate business for over 35 years, and during that time I’ve helped over 3,000 families with their real estate needs. Over the years, I developed a nearly full-proof technique to maximize a home’s value and capture an additional two to three buyers on almost every listing. For example, do you know the exact time you should activate your listing? To learn about my eight proven steps, watch this short video.
@@ -32,6 +31,6 @@ Here are the eight steps that I’ve integrated into my approach:&nbsp;
 7. **Get a partner.** Make sure you have a partner with you; when people try to capture everyone on their own, they end up capturing no one.&nbsp;
 8. **Have a hook.**&nbsp;Create a hook that speaks to a pain point of people walking in to the house.&nbsp;
 
-Check out the full training, where I go more in-depth with these 8 steps, and also [download the free PDF by clicking here](/uploads/listing.pdf){: target="_blank"}.&nbsp;
+You can&nbsp;[download the free PDF by clicking here](/uploads/listing.pdf){: target="_blank"}.&nbsp;
 
 <iframe src="/uploads/listing.pdf" width="100%" height="500px"></iframe>
