@@ -29,3 +29,5 @@ Here are the eight steps that I’ve integrated into my approach:&nbsp;
 6. **More signs, more attention.** That following Sunday, put even more signs out, this time with balloons attached. Do whatever you can to make the open house experience seem special and interesting.&nbsp;
 7. **Get a partner.** Make sure you have a partner with you; when people try to capture everyone on their own, they end up capturing no one.&nbsp;
 8. **Have a hook.**&nbsp;Create a hook that speaks to a pain point of people walking in to the house.
+
+I did a longer training going further in depth about these 8 steps. Check it out [here.](https://nashvillerealestatemastermind.com/how-to-maximize-your-listings-that-might-upset-the-competition.html)
