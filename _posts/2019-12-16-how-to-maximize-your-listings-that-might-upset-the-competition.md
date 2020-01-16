@@ -33,4 +33,4 @@ Here are the eight steps that I’ve integrated into my approach:&nbsp;
 
 You can&nbsp;[download the free PDF by clicking here](/uploads/listing.pdf){: target="_blank"}.&nbsp;
 
-<iframe src="/uploads/listing.pdf" width="100%" height="500px"></iframe>
+<iframe src="/uploads/listing.pdf" width="100%" height="1000px"></iframe>
