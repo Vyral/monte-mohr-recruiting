@@ -19,7 +19,7 @@ home_display: true
 
 {% include youtube.html %}
 
-*I’ve found that what separates “just okay” listings from the top, buzz-generating listings can be boiled down to the eight things I’m sharing with you today. *
+<CENTER><EM>I’ve found that what separates “just okay” listings from the top, buzz-generating listings can be boiled down to the eight things I’m sharing with you today. *</EM></CENTER>
 
 I’ve been in the real estate business for over 35 years, and during that time I’ve helped over 3,000 families with their real estate needs. Over the years, I developed a nearly full-proof technique to maximize a home’s value and capture an additional two to three buyers on almost every listing.&nbsp;
 
