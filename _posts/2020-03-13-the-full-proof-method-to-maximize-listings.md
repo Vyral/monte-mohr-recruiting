@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Full-Proof Method to Maximize Listings
-date: 2020-03-13 17:43:46
+date: 2020-03-13 17:43:00
 tags:
 excerpt: >-
   I’ve found that what separates “just okay” listings from the top,
@@ -11,15 +11,15 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/3-12-20yt-1.jpg
 youtube_code: yDBQeieOVcA
 home_display: true
 ---
 
 {% include youtube.html %}
 
-<CENTER><EM>I’ve found that what separates “just okay” listings from the top, buzz-generating listings can be boiled down to the eight things I’m sharing with you today. *</EM></CENTER>
+<center><em>I&rsquo;ve found that what separates &ldquo;just okay&rdquo; listings from the top, buzz-generating listings can be boiled down to the eight things I&rsquo;m sharing with you today. *</em></center>
 
 &nbsp;&nbsp;
 
