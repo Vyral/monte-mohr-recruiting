@@ -43,14 +43,14 @@ permalink: /join-our-team/
 <ul class="indent">
 <li>A strong mentorship program with true experienced and <strong>available</strong> leadership</li>
 <li>Guidance creating unique selling propositions to compete with the disruptors</li>
-<li>Over 500 hours of FREE world-class online training on Every R.E. Topic</li>
+<li>Over 2500 hours of FREE world-class online training on Every R.E. Topic</li>
 <li>Strong core values we not only claim, but actually walk out daily</li>
 <li>Thousands of dollars of cutting-edge technology- FREE</li>
 <li>A Strong National Brand that puts the Agent First</li>
 <li>Access to Team and Individual leads sources</li>
 <li>Active team communication with 60+ agents</li>
 <li>Weekly live training and master mind group</li>
-<li>Same day direct deposit for commissions</li>
+<li>Direct deposit within 24 hours for commissions</li>
 <li>A new highly visible, easy access office</li>
 <li>A collaborative, team environment</li>
 <li>Top tier systems and support</li>
