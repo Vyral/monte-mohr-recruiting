@@ -36,11 +36,11 @@ client:
   market: Middle Tennessee
   brand: Realty ONE Group Music City
   brokerage:
-  address: 600A Frazier Drive Suite 123 Franklin Tn. 37067<br>(Next to Cool Springs Brewery and Sperry's Restaurant)
-  phone: 615-636-8244
-  phone_type:
-  phone2:
-  phone2_type:
+  address: 2920 Berry Hill Dr. #210 Nashville, TN 37204
+  phone: 615-925-0204
+  phone_type: Office
+  phone2: 615-300-8393
+  phone2_type: Mobile
   email: monte@realtyonemusiccity.com
   url: http://TopAgentSuccessCoach.com
 
