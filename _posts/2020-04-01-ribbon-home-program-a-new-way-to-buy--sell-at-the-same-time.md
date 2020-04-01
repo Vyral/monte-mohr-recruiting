@@ -21,7 +21,10 @@ home_display: true
 
 {% include youtube.html %}
 
-*There’s a new way to help clients buy a new home and sell their old one: Ribbon Homes.*
+<center><em>There’s a new way to help clients buy a new home and sell their old one: Ribbon Homes.</em></center>
+&nbsp;
+&nbsp;
+
 
 In my experience, contingent offers don’t typically fly with sellers. In a hot market, most homeowners don’t want to put their eggs in another person’s basket.
 
