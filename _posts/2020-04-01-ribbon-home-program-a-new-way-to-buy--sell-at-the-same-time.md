@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ribbon Home Program: A New Way to Buy & Sell at the Same Time'
-date: 2020-04-01 20:23:03
+date: 2020-04-01 20:23:00
 tags:
 excerpt: >-
   There’s a new way to help clients buy a new home and sell their old one:
@@ -20,6 +20,8 @@ home_display: true
 ---
 
 {% include youtube.html %}
+
+*There’s a new way to help clients buy a new home and sell their old one: Ribbon Homes.*
 
 In my experience, contingent offers don’t typically fly with sellers. In a hot market, most homeowners don’t want to put their eggs in another person’s basket.
 
