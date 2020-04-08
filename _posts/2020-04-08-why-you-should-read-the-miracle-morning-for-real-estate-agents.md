@@ -21,6 +21,9 @@ home_display: true
 
 <center><em>When I read “The Miracle Morning for Real Estate Agents,” it changed my life and career. It can do the same for you.</em></center>
 
+&nbsp; &nbsp;
+
+
 Two years ago, I read a book entitled “The Miracle Morning for Real Estate Agents: It’s Your Time to Rise and Shine” by Hal Elrod, Michael J. Maher, and Michael Reese. At the age of 67, I can tell you that my life changed when I read it and started applying its lessons to my life.
 
 {% include pullquote.html %}
