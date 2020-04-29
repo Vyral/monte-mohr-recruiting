@@ -18,7 +18,8 @@ home_display: true
 
 {% include youtube.html %}
 
-*During a difficult time in my life, I acquired a hunger for learning. I’m sharing that story and the book that helped me do it. *
+<center><em>During a difficult time in my life, I acquired a hunger for learning. I’m sharing that story and the book that helped me do it.</em></center>
+&nbsp;
 
 Today I want to share how I received my hunger for learning.&nbsp;
 
