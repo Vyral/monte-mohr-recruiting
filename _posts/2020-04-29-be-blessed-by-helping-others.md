@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Book That Changed My Life
-date: 2020-04-29 19:43:54
+title: Be Blessed By Helping Others
+date: 2020-04-29 19:43:00
 tags:
 excerpt: >-
   During a difficult time in my life, I acquired a hunger for learning. I’m
@@ -18,7 +18,8 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>During a difficult time in my life, I acquired a hunger for learning. I’m sharing that story and the book that helped me do it.</em></center>
+<center><em>During a difficult time in my life, I acquired a hunger for learning. I&rsquo;m sharing that story and the book that helped me do it.</em></center>
+
 &nbsp;
 
 Today I want to share how I received my hunger for learning.&nbsp;
