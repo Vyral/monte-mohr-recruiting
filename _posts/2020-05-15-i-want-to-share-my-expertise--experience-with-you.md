@@ -18,7 +18,7 @@ home_display: true
 
 {% include youtube.html %}
 
-*If you need a lifeline, I’m here to help. Here’s how. *
+<center><em>If you need a lifeline, I’m here to help. Here’s how.</em></center>
 
 &nbsp;
 
