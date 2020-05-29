@@ -18,7 +18,9 @@ home_display: true
 
 {% include youtube.html %}
 
-How do you become a billion-dollar broker? The first step is winning the battle between your ears.
+<center><em>How do you become a billion-dollar broker? The first step is winning the battle between your ears.</em></center>
+
+&nbsp;
 
 The other day, someone said to me, “Monte, I’m new in the business and I want to become a billion-dollar broker like you. What do I do?”
 
