@@ -16,7 +16,8 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here’s what I do to let my database know that I’m always here for them. *
+<center><em>Here’s what I do to let my database know that I’m always here for them.</em></center>
+&nbsp;
 
 I’m a non-competing broker but still an active one, and that’s because **I have a conviction that I can be of far greater value to my agents if I’m still out there experiencing the pains of our current market**—not a market I knew five, 10, or 15 years ago.&nbsp;
 
