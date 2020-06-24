@@ -19,7 +19,7 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>Here’s the key to start selling more than one home per month.</em></center>
+<center><em>Here&rsquo;s the key to start selling more than one home per month.</em></center>
 
 &nbsp;
 
@@ -29,9 +29,9 @@ I’m a big advocate of using a local company here called Contract to Close. Ton
 
 Handing off the details frees up more time for you to do the things that you’re excellent at—or that you need to *become* excellent at anyhow. Remember: Your excellence is in serving the local person who knows, likes, and trusts you, whether you’re helping them buy or sell, or just locate the best painter in town.&nbsp;
 
-{% include pullquote.html %}
-
 **If you’re doing the details, you’re never going to get off the ground.** Momentum is the secret to this business, and you will never achieve it if you insist on controlling all of the details. Even if you’re a control freak like me, you need to let go of those things that you really don’t need to have your hand on. Let someone who’s a professional in that area handle it. Did you know there are somewhere between 18 and 20 hours of details in every transaction? Imagine all of the things you could be doing with that time to grow your business.&nbsp;
+
+{% include pullquote.html %}
 
 When you grow your business, you’re becoming more proficient at what you do, and that means you’re able to be better for those who need you most. How can you expect to become excellent at something if you’re only doing it a couple of times throughout the year? If you help somebody buy a home and hand off the details to someone like Toni at Contract to Close, you’ll be able to jump right back into helping some other couple or family find a home and build momentum.&nbsp;
 
