@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: How Do You Build Momentum in Real Estate?'
-date: 2020-06-24 15:35:01
+date: 2020-06-24 15:35:00
 tags:
 excerpt: Here’s the key to start selling more than one home per month.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/How+Do+You+Build+Momentum+in+Real+Estate_.mp4
 pullquote: >-
   Your excellence is in serving the local person who knows, likes, and trusts
   you.
