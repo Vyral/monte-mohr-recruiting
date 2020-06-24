@@ -19,7 +19,9 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here’s the key to start selling more than one home per month.*
+<center><em>Here’s the key to start selling more than one home per month.</em></center>
+
+&nbsp;
 
 There’s only one way to get yourself to a place where you’re consistently selling more than one house a month, and that is to **leverage yourself.** The first time I hired someone to help me with the details (I’m not really a fine-details kind of guy), I saw my business *double.* Originally, I didn’t think I could afford the cost of help, but then I realized that I was already incurring the cost myself while simultaneously inhibiting my growth. Investing in help was the right call. &nbsp;
 
