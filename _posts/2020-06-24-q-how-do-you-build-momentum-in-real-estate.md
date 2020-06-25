@@ -27,7 +27,7 @@ There’s only one way to get yourself to a place where you’re consistently se
 
 {% include pullquote.html %}
 
-I’m a big advocate of using a local company here called Contract to Close. Toni White is the owner (her number is 615-289-1452), and I honestly don’t know what I’d do without her. I know it may seem odd that I’m spending my time and dollar promoting a business that gives me nothing in return for doing so, but **I believe in the need to walk in excellence as a real estate professional; get the things that you’re not great at off of your plate.&nbsp;**
+I’m a big advocate of using a local company here called Contract to Close. Toni White is the owner (her number is 615-289-1452), and I honestly don’t know what I’d do without her. I know it may seem odd that I’m spending my time and money promoting a business that gives me nothing in return for doing so, but **I believe in the need to walk in excellence as a real estate professional; get the things that you’re not great at off of your plate.&nbsp;**
 
 Handing off the details frees up more time for you to do the things that you’re excellent at—or that you need to *become* excellent at anyhow. Remember: Your excellence is in serving the local person who knows, likes, and trusts you, whether you’re helping them buy or sell, or just locate the best painter in town.&nbsp;
 
