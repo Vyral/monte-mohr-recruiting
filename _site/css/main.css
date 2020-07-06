@@ -1496,9 +1496,7 @@ label.tree-toggle {
   text-shadow: 0px 2px 7px black;
   font-size: 3.5rem;
   font-weight: bold;
-  bottom: 8rem;
-  position: absolute;
-  margin: 0 rem; }
+  padding-top: 22rem; }
 
 .site-title {
   color: #c7aa5f;
