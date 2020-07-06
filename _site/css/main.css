@@ -1491,6 +1491,15 @@ label.tree-toggle {
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
   filter: drop-shadow(0px 2px 7px transparent); }
 
+.site-mission {
+  color: #ffffff;
+  text-shadow: 0px 2px 7px black;
+  font-size: 3.5rem;
+  font-weight: bold;
+  bottom: 8rem;
+  position: absolute;
+  margin: 0 rem; }
+
 .site-title {
   color: #c7aa5f;
   text-align: center;
@@ -1513,7 +1522,10 @@ label.tree-toggle {
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 5rem; }
+
+  .site-mission {
+    font-size: 2.5rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
@@ -1526,7 +1538,10 @@ label.tree-toggle {
     padding: 1rem; } }
 @media (max-width: 400px) {
   .cta {
-    padding: 0.5rem; } }
+    padding: 0.5rem; }
+
+  .site-mission {
+    font-size: 2rem; } }
 :root {
   font-size: 10px; }
 

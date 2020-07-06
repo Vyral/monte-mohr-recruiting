@@ -15,6 +15,16 @@
 	max-width: $logo-width
 	@include filter(drop-shadow($header-shadow))
 
+.site-mission
+	color: #ffffff
+	text-shadow: 0px 2px 7px black
+	// text-transform: uppercase
+	font-size: 3.5rem
+	font-weight: bold
+	bottom: 8rem
+	position: absolute
+	margin: 0 rem
+
 .site-title
 	color: $brand
 	text-align: center
@@ -39,6 +49,8 @@
 		margin-top: 4rem
 	.site-title
 		font-size: 5rem
+	.site-mission
+		font-size: 2.5rem
 
 @media (max-width: 600px)
 	#hero
@@ -55,3 +67,5 @@
 		// height: 25rem
 	.cta
 		padding: 0.5rem
+	.site-mission
+		font-size: 2rem
