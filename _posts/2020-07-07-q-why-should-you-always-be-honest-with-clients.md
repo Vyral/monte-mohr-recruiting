@@ -16,7 +16,8 @@ home_display: true
 
 {% include youtube.html %}
 
-*It’s important to embrace all those uncomfortable client conversations.*
+<center><em>It’s important to embrace all those uncomfortable client conversations.</em></center>
+&nbsp;
 
 Don’t you love it when a home you walk into smells like dogs? I love dogs, especially my pup Otis P. Mohr, and I’m sure many of you do too, but I know they don’t always leave the most pleasant odors behind. **One of the things you’re bringing to the picture when you meet with a seller who has pets is your expertise, and your nose is a big part of your expertise.&nbsp;**
 
