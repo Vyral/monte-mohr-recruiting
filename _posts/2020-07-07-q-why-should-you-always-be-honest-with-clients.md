@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: Why Should You Always Be Honest With Clients?'
-date: 2020-07-07 19:22:35
+date: 2020-07-07 19:22:00
 tags:
 excerpt: It’s important to embrace all those uncomfortable client conversations.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Does+Your+House+Smell+Like+Animals_.mp4
 pullquote: 'If you’re being honest, that’s what really matters.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,8 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>It’s important to embrace all those uncomfortable client conversations.</em></center>
+<center><em>It&rsquo;s important to embrace all those uncomfortable client conversations.</em></center>
+
 &nbsp;
 
 Don’t you love it when a home you walk into smells like dogs? I love dogs, especially my pup Otis P. Mohr, and I’m sure many of you do too, but I know they don’t always leave the most pleasant odors behind. **One of the things you’re bringing to the picture when you meet with a seller who has pets is your expertise, and your nose is a big part of your expertise.&nbsp;**
