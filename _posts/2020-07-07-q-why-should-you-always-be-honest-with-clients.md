@@ -6,7 +6,7 @@ tags:
 excerpt: It’s important to embrace all those uncomfortable client conversations.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Does+Your+House+Smell+Like+Animals_.mp4
-pullquote: 'If you’re being honest, that’s what really matters.'
+pullquote: 'If you’re being honest, that’s what truly matters.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -21,13 +21,13 @@ home_display: true
 
 &nbsp;
 
-Don’t you love it when a home you walk into smells like dogs? I love dogs, especially my pup Otis P. Mohr, and I’m sure many of you do too, but I know they don’t always leave the most pleasant odors behind. **One of the things you’re bringing to the picture when you meet with a seller who has pets is your expertise, and your nose is a big part of your expertise.&nbsp;**
+Don’t you love it when a home you walk into smells like dogs? I love dogs, especially my pup, Otis P. Mohr, and I’m sure many of you do too, but I know they don’t always leave the most pleasant odors behind. **One of the things you’re bringing to the picture when you meet with a seller who has pets is your expertise, and your nose is a big part of your expertise.&nbsp;**
 
 {% include pullquote.html %}
 
 When you hire a Realtor, you’re hiring someone to give you an honest opinion about your home. **Pet smells can detract certain buyers, and it’s not to either of your advantages to ignore it.** The seller should be able to count on you to give your honest opinion. Be okay with those uncomfortable conversations. If you’re being honest, that’s all that matters in the end.
 
-I’ve been there before where I was timid with a seller and ended up not selling their listing because of it. **If I was honest from the start, sure it would have led to a slightly uncomfortable sale, but it also would have sold quickly and everyone would have walked away happy.**
+I’ve been there before; where I was timid with a seller and ended up not selling their listing because of it. **If I had been honest from the start, sure it would have surely led to a slightly uncomfortable sale, but it also would have sold quickly and everyone would have walked away happy.**
 
 If I can ever help you advance your real estate career, I’d love to do so. I’ve helped over 3,000 buyers and sellers in my 36 years and I’d love to help you help more people as well.&nbsp;
 
