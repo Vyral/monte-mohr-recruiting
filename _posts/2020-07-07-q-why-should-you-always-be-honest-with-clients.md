@@ -10,7 +10,7 @@ pullquote: 'If you’re being honest, that’s what truly matters.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/6-19-20yt.jpg
+youtube_alternate_image: /uploads/7-9-20yt.jpg
 youtube_code: i0u0uzLKHaE
 home_display: true
 ---
