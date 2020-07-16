@@ -16,7 +16,8 @@ home_display: true
 
 {% include youtube.html %}
 
-*If you’re looking to mentor newer agents, you’ve come to the right place. *
+<center><em>If you’re looking to mentor newer agents, you’ve come to the right place.</em></center>
+&nbsp;
 
 The Realty One Group is growing, and we’re attracting both experienced agents and those who are newer to the real estate business.&nbsp;
 
