@@ -4,7 +4,7 @@ title: 'Q: Do You Have a Passion for Mentoring New Agents?'
 date:
 tags:
 excerpt: 'If you’re looking to mentor newer agents, you’ve come to the right place.'
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/MonteMohr_WeAreHiring.mp4'
 pullquote: This is a great opportunity for anyone with a teacher’s heart.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,8 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>If you’re looking to mentor newer agents, you’ve come to the right place.</em></center>
+<center><em>If you&rsquo;re looking to mentor newer agents, you&rsquo;ve come to the right place.</em></center>
+
 &nbsp;
 
 The Realty One Group is growing, and we’re attracting both experienced agents and those who are newer to the real estate business.&nbsp;
