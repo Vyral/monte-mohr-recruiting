@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-14-20yt-3.jpg
-youtube_code:
+youtube_code: 3RC7A4LwWvo
 home_display: true
 ---
 
