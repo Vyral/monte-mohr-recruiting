@@ -18,7 +18,9 @@ home_display: true
 
 {% include youtube.html %}
 
-*The best working relationships are grounded in this simple acronym.*
+<center><em>The best working relationships are grounded in this simple acronym.</em></center>
+
+&nbsp;
 
 Here’s a simple acronym that has been helpful over the years in my real estate career. You should always be seeking people who are:&nbsp;
 
