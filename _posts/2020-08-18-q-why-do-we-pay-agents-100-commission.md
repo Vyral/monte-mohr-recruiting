@@ -18,7 +18,8 @@ home_display: true
 
 {% include youtube.html %}
 
-*Why would a broker offer their agents a 100% commission?*
+<center><em>Why would a broker offer their agents a 100% commission?</em></center>
+&nbsp;
 
 A couple of brokers asked me why in the world a broker should accept a business model where the real estate agents are paid 100% commission, especially when we live in such a competitive world. It’s already hard for a broker to make a profit as it is—why would anyone do that?
 
