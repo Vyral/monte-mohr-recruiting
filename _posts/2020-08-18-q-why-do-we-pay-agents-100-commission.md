@@ -19,7 +19,7 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>Why would a broker offer their agents a 100% commission?</em></center>
+<center><em>Why would a broker offer their agent a 100% commission?</em></center>
 
 &nbsp;
 
