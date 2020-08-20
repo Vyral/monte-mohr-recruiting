@@ -4,7 +4,7 @@ title: 'Q: Do You Have a Passion for Mentoring New Agents?'
 date: 2020-07-17 15:57:00
 tags:
 excerpt: 'If you’re looking to mentor newer agents, you’ve come to the right place.'
-enclosure: 'https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/MonteMohr_WeAreHiring.mp4'
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Videos/Seeking+Mentors.mp4'
 pullquote: This is a great opportunity for anyone with a teacher’s heart.
 enclosure_type: video/mp4
 enclosure_time:
