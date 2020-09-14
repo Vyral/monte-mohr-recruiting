@@ -4,7 +4,8 @@ title: 'Q: What Is Meant When We Say “Don’t Be That Agent”?'
 date: 2020-09-14 20:07:00
 tags:
 excerpt: Here’s why we as professionals must always position ourselves as experts.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Videos/June+5+DontBeThatAgent.mp4
 pullquote: >-
   If you’re not acting like the expert, then the person who thinks they’re an
   expert will take the wheel from you and try to steer the process
