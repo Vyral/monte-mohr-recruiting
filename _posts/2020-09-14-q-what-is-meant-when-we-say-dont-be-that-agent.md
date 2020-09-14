@@ -18,8 +18,9 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here’s why we as professionals must always position ourselves as experts. *
+<center><em>Here’s why we as professionals must always position ourselves as experts. </em></center>
 
+&nbsp;
 What does it mean when I say, “Don’t be that agent?” It means to not be the agent who’s trying to learn on the fly. **I see some agents lose control of a transaction because they failed to emphasize their expertise to their clients—don’t be that agent.&nbsp;**
 
 Here’s an example: I recently had a hot listing. It was a beautifully staged home with fresh paint that was priced correctly. Within the first couple of days of hitting the market, I had two agents whose clients expressed interest in it. One agent wanted to know how old the roof was, who had done the work, what the HOA policies consisted of, etc. She was trying to cover all her bases and sort out all the minutiae.&nbsp;
