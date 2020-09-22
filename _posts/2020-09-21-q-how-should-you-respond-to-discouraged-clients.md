@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Should You Respond to Discouraged Clients?'
-date: 2020-09-21 19:04:43
+date: 2020-09-21 19:04:00
 tags:
 excerpt: >-
   Here’s how I respond when my clients say that God doesn’t want them to have
@@ -19,19 +19,19 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>Here’s how I respond when my clients say that God doesn’t want them to have that house.</em></center>
+<center><em>Here&rsquo;s how I respond when my clients say that God doesn&rsquo;t want them to have that house.</em></center>
 
 &nbsp;
 
-Living in the belt buckle of the Bible Belt is a great thing, especially if you’re a Christian. However, it’s amazing how many times people run into a tough spot during their real estate transactions and they resign themselves, saying, “Well, maybe God doesn’t want me to have that house.”
+Living in the belt buckle of the Bible Belt is a great thing, especially if you’re a Christian. However, it’s amazing how many times people run into a tough spot during their real estate transactions and resign themselves, saying, “Well, maybe God doesn’t want me to have that house.”
 
-**My typical response to that is that I don’t think that God wanted me to get into real estate, either.&nbsp;**
+**My typical response is to tell them that I don’t think God wanted me to get into real estate, either.&nbsp;**
 
-Thirty-six years ago during my first transaction, I was having a tough time finding a home for a buyer. When I finally did, the appraisal said that it needed a new roof. But the seller didn’t have the money for a new roof. The buyer offered to do it himself, and he ended up putting a new roof on a house that he didn’t even own.
+36 years ago during my first transaction, I was having a tough time finding a home for a buyer. When I finally did, the appraisal said that it needed a new roof. However, the seller didn’t have the money for a new roof. The buyer offered to do it himself, and he ended up putting a new roof on a house that he didn’t even own.
 
 {% include pullquote.html %}
 
-On the day of closing, all parties showed up to the table, but my buyers were nowhere around. When I finally got a phone call from them, I was concerned that something terrible had happened. And it had—the buyers had lost their down payment they intended to bring to the table.
+On the day of closing, when everyone gathered at the table to get this deal done, my buyers were nowhere to be found. When I finally got a phone call from them, I was concerned that something terrible had happened—and it sure did: The buyers had lost their down payment they intended to bring to the table.
 
 At that time, the seller’s broker said to me, “Monte, do you see the sheriff’s car parked outside?”
 
