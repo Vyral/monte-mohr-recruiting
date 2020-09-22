@@ -19,7 +19,7 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here’s how I respond when my clients say that God doesn’t want them to have that house.*
+<center><em>Here’s how I respond when my clients say that God doesn’t want them to have that house.</em></center>
 
 &nbsp;
 
