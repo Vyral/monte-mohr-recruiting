@@ -17,7 +17,8 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here’s what I really mean when I say I’m a non-competing broker. *
+<center><em>Here’s what I really mean when I say I’m a non-competing broker.</em></center>
+&nbsp;
 
 What does it mean when your broker says they’re a non-competing broker? Well, in some perspectives, it may mean that they haven’t sold a home in the last six years, which is fine—being a broker requires a lot of focus. In my case, **I’m a non-competing broker yet I’m a relevant broker because I’m still active in the market.&nbsp;**
 
