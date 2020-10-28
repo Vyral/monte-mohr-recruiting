@@ -17,7 +17,7 @@ home_display: true
 
 {% include youtube.html %}
 
-*&nbsp;We’re looking for more new agents like these ones to help grow.*
+<center><em>We’re looking for more new agents like these ones to help grow.</em></center>
 
 &nbsp;
 
