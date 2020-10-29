@@ -21,7 +21,7 @@ home_display: true
 
 &nbsp;
 
-Our team is growing and we’re looking for really great people who would make excellent real estate agents. **Lately, we’re finding our newest people are getting some of the most incredible results.** For example,
+Our team is growing and we’re looking for really great people who would make excellent real estate agents. **Lately, we’re finding our newest people are getting some of the most incredible results.** For example:
 
 • Marbelin Curiel has only been licensed for four months but already has eight closings.
 
