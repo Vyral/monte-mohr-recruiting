@@ -4,7 +4,8 @@ title: 'Q: How Do You Prepare for Commission Compression?'
 date: 2020-11-13 18:27:00
 tags:
 excerpt: Here are my thoughts on how to prepare for commission compression.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Videos/MM_Mentoring_-_Commission_Compression.mp4
 pullquote: >-
   When commission compression reaches Inman’s headlines, it’s time to stop
   ignoring it and start preparing for it.
@@ -18,7 +19,7 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here are my thoughts on how to prepare for commission compression. *
+\*Here are my thoughts on how to prepare for commission compression. \*
 
 A few weeks ago, an article was posted on [Inman](https://www.inman.com/2020/10/29/not-if-but-when-why-you-should-be-preparing-for-commission-compression-now/) about a very interesting topic that I want to delve into today: **commission compression.**&nbsp;
 
