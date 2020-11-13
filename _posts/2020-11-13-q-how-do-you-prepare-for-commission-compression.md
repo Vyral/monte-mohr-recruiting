@@ -19,7 +19,8 @@ home_display: true
 
 {% include youtube.html %}
 
-\*Here are my thoughts on how to prepare for commission compression. \*
+<center><em>Here are my thoughts on how to prepare for commission compression.</em></center>
+&nbsp;
 
 A few weeks ago, an article was posted on [Inman](https://www.inman.com/2020/10/29/not-if-but-when-why-you-should-be-preparing-for-commission-compression-now/) about a very interesting topic that I want to delve into today: **commission compression.**&nbsp;
 
