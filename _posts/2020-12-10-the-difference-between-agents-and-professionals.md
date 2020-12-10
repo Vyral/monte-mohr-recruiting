@@ -16,7 +16,9 @@ home_display: true
 
 {% include youtube.html %}
 
-*This is one main difference between real estate agents and professionals.*
+<center><em>This is one main difference between real estate agents and professionals.</em></center>
+&nbsp;
+
 
 Would you hire a builder to build your dream home if you knew they had to borrow a hammer and saw to do the job? It’s the same for real estate professionals. **Real estate agents are different from real estate professionals.&nbsp;**
 
