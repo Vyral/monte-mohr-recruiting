@@ -16,7 +16,7 @@ home_display: true
 
 {% include youtube.html %}
 
-*Here’s how the “Four Ds” can help you manage daily tasks like a pro.*
+<center><em>Here’s how the “Four Ds” can help you manage daily tasks like a pro.</em></center>
 
 &nbsp;
 
