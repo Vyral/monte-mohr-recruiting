@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The 4 Actions for Every Task List
-date: 2021-01-20 17:00:01
+title: The Power of the “Four Ds”
+date: 2021-01-20 17:00:00
 tags:
 excerpt: Here’s how the “Four Ds” can help you manage daily tasks like a pro.
 enclosure:
@@ -16,7 +16,7 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>Here’s how the “Four Ds” can help you manage daily tasks like a pro.</em></center>
+<center><em>Here&rsquo;s how the &ldquo;Four Ds&rdquo; can help you manage daily tasks like a pro.</em></center>
 
 &nbsp;
 
