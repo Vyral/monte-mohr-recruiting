@@ -4,7 +4,7 @@ title: The Power of the “Four Ds”
 date: 2021-01-20 17:00:00
 tags:
 excerpt: Here’s how the “Four Ds” can help you manage daily tasks like a pro.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Monte+Mohr+TheFourDs.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
