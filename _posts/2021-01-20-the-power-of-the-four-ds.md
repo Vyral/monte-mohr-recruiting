@@ -20,7 +20,7 @@ home_display: true
 
 &nbsp;
 
-Many refer to busy people as if “busy” were synonymous with “productive.” As Chrissy Amundson points out, there’s an important distinction: Busy people let others decide their direction, whereas productive people choose that direction themselves, then evaluate their progress as they go; all productive people are organized—“busy” is what happens when we lose that structure.&nbsp;
+Many refer to busy people as if “busy” were synonymous with “productive.” As Chrissy Amundson points out, there’s an important distinction: Busy people let others decide their direction, whereas productive people choose that direction themselves, then evaluate their progress as they go. All productive people are organized—“busy” is what happens when we lose that structure.&nbsp;
 
 Today I’m sharing an excerpt from “The Talk of Music City Real Estate” radio show, in which we discuss the “Four Ds” that productive people use to prioritize their task lists and stay ahead of the game: delete, do, defer, or delegate. With only so many hours in your workday to use, you need to decide quickly which tasks need which “D.” To hear our full discussion on this important categorization, watch my latest video.&nbsp;
 
