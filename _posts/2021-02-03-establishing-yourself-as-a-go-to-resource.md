@@ -4,7 +4,8 @@ title: Establishing Yourself as a Go-To Resource
 date: 2021-02-03 00:00:00
 tags:
 excerpt: 'In today’s excerpt, we explore the power of capturing and keeping mindshare.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Monte+Mohr+The+Go+To+Person.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>In today’s excerpt, we explore the power of capturing and keeping mindshare.</em></center>
+<center><em>In today&rsquo;s excerpt, we explore the power of capturing and keeping mindshare.</em></center>
 
 &nbsp;
 
