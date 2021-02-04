@@ -21,7 +21,7 @@ home_display: true
 
 &nbsp;
 
-Today we’re bringing you another value-packed excerpt from “The Talk of Music City Real Estate,” and this time, the topic is all about being topical. Here’s a good primer: Why do you still see Coca-Cola commercials? It’s not that the 128-year-old powerhouse of a company feels like they have to make introductions here in 2021, but rather that they understand the power of reiteration. Before we dive in the importance of staying in front of those who know, like, and trust you, we’ll first share a new construction horror story as a reminder for both agents and consumers to be vigilant.&nbsp;
+Today we’re bringing you another value-packed excerpt from “The Talk of Music City Real Estate,” and this time, the topic is all about being topical. Here’s a good primer: Why do you still see Coca-Cola commercials? It’s not that the 128-year-old powerhouse of a company feels like they have to make introductions here in 2021 but rather that they understand the power of reiteration. Before we dive into the importance of staying in front of those who know, like, and trust you, we’ll first share a new construction horror story as a reminder for both agents and consumers to be vigilant.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
@@ -35,4 +35,4 @@ Today we’re bringing you another value-packed excerpt from “The Talk of Musi
 
 7:14 — Establishing yourself as the go-to resource for homeowners’ needs&nbsp;
 
-We hope you found today’s discussion stimulating. As always, feel free to reach out to Realty ONE Group Music City with any questions, comments, or concerns we have. We’d love to hear from you.
+We hope you found today’s discussion stimulating. As always, feel free to reach out to Realty ONE Group Music City with any questions, comments, or concerns you have. We’d love to hear from you.
