@@ -16,10 +16,11 @@ home_display: true
 
 {% include youtube.html %}
 
-<center><em>Here’s what low inventory and rising prices have done to our market.</em></center>
+<center><em>Here&rsquo;s what low inventory and rising prices have done to our market.</em></center>
+
 &nbsp;
 
-Which is the bigger problem that our Nashville real estate market faces: rising prices or lack of inventory? In this episode of “The Talk of Music City Real Estate,” we’ll answer this question and more. There are plenty of would-be sellers out there who won’t pull the trigger because they’re afraid they’ll have nowhere to go after they do sell. However, the momentum of people moving to the middle Tennessee area has prevented any significant market slowdown.&nbsp;
+What’s the bigger problem facing our Nashville real estate market: rising prices or lack of inventory? In this episode of “The Talk of Music City Real Estate,” we’ll answer this question and more. There are plenty of would-be sellers out there who won’t pull the trigger because they’re afraid they’ll have nowhere to go after they do sell. However, the momentum of people moving to the Middle Tennessee area has prevented any significant market slowdown.&nbsp;
 
 **Feel free to watch the video above in its entirety to watch the full episode or use these timestamps to skip ahead to various sections at your leisure:&nbsp;**
 
