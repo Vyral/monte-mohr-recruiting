@@ -18,6 +18,7 @@ home_display: true
 {% include youtube.html %}
 
 <center><em> Here’s our discussion about how to establish your value as a professional.</em></center>
+
 &nbsp;
 Today we’re sharing a snippet from our commissions-focused discussion on how to establish your value as a real estate professional. We touched on how to deal with commissions, creating predictable income, and much more.
 
