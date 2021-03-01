@@ -21,7 +21,7 @@ home_display: true
 
 <center>&nbsp;</center>
 
-&nbsp; Today we’re sharing a snippet from our commissions-focused discussion on how to establish your value as a real estate professional. We touched on how to deal with commissions, creating predictable income, and much more.
+&nbsp;Today we’re sharing a snippet from our commissions-focused discussion on how to establish your value as a real estate professional. We touched on how to deal with commissions, creating predictable income, and much more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
