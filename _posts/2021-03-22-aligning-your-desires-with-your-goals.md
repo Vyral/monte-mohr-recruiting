@@ -4,7 +4,8 @@ title: Aligning Your Desires With Your Goals
 date: 2021-03-22 00:00:00
 tags:
 excerpt: Today we discuss how to align your desires with your goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/Monte+Mohr+DesireAndGoals.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
