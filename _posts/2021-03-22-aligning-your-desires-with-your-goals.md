@@ -20,11 +20,11 @@ home_display: true
 
 &nbsp;
 
-In real estate as in life, if your desires don’t match up with your goals, you’ll wind up in a mindset where you’ll probably view the industry in a negative way. A lack of harmony here is only going to set you up to fail. That’s why, when we bring in new agents to the RealtyOne Group, they undergo foundational training. Only 13% of agents who enter the real estate industry make it past their second year in the business, so one of our goals for our training is to increase that percentage. Today we sat down for a discussion about how agents (especially newer agents) can structure their mindsets so they’re set up for success instead of failure.
+In real estate, as in life, if your desires don’t match up with your goals, you’ll wind up in a mindset where you’ll probably view the industry in a negative way. A lack of harmony here is only going to set you up to fail. That’s why, when we bring in new agents to the RealtyOne Group, they undergo foundational training. Only 13% of agents who enter the real estate industry make it past their second year in the business, so one of our goals for our training is to increase that percentage. Today we sat down for a discussion about how agents (especially newer agents) can structure their mindsets, so they’re set up for success instead of failure.
 
 **Follow along in the video above or use the timestamps below to navigate our discussion at your leisure:**
 
-1:22—Are you committed to your goals, or just interested?
+1:22—Are you committed to your goals or just interested?
 
 2:35—Wanting someone else’s success without putting in the work
 
