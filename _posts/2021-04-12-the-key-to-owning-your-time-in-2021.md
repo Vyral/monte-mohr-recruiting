@@ -15,7 +15,8 @@ home_display: true
 ---
 {% include youtube.html %}
 
-If you’re having trouble owning your time, today’s video is for you.
+<center><em>If you’re having trouble owning your time, today’s video is for you.</em></center>
+&nbsp;
 
 How do you own your time? That’s the question we’re answering on this episode of “The Talk of Music City Real Estate.” If you don’t own your time, your time will own you—especially if you have to balance multiple roles in your personal and professional life. We all want to be busy for 2021, but it’s more important to be productive.&nbsp;
 
