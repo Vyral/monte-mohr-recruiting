@@ -4,7 +4,8 @@ title: Beware of Wire Fraud When Buying a Home
 date: 2021-04-16 00:00:00
 tags:
 excerpt: Today’s discussion is all about wire fraud.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/Monte+Mohr+EmailHackers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,9 +16,9 @@ home_display: true
 ---
 {% include youtube.html %}
 
-<center><em>Today’s discussion is all about wire fraud.</em></center>
-&nbsp;
+<center><em>Today&rsquo;s discussion is all about wire fraud.</em></center>
 
+&nbsp;
 
 On this episode of “The Talk of Music City Real Estate,” special guest Chris Corriveau of Midtown Title joins us to talk about an unfortunate topic: wire fraud. Wire fraud can happen to anyone during a home purchase, and it can cost you hundreds of thousands of dollars. We’ll tell you how wire fraud is perpetrated during real estate transactions and offer a few tips on how to protect yourself from falling victim to it.&nbsp;
 
