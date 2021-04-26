@@ -9,13 +9,13 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-26-21yt-2.jpg
+youtube_alternate_image: /uploads/4-15-21yt.jpg
 youtube_code: rjb0DHTbG8o
 home_display: true
 ---
 {% include youtube.html %}
 
-<center><em>Today’s discussion is all about wire fraud.</em></center>
+<center><em>Today&rsquo;s discussion is all about wire fraud.</em></center>
 
 &nbsp;
 
