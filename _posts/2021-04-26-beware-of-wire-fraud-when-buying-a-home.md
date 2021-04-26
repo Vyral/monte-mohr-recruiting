@@ -15,7 +15,9 @@ home_display: true
 ---
 {% include youtube.html %}
 
-Today’s discussion is all about wire fraud.
+<center><em>Today’s discussion is all about wire fraud.</em></center>
+
+&nbsp;
 
 On this episode of “The Talk of Music City Real Estate,” special guest Chris Corriveau of Midtown Title joins us to talk about an unfortunate topic: wire fraud. Wire fraud can happen to anyone during a home purchase, and it can cost you hundreds of thousands of dollars. We’ll tell you how wire fraud is perpetrated during real estate transactions and offer a few tips on how to protect yourself from falling victim to it.&nbsp;
 
