@@ -18,6 +18,7 @@ home_display: true
 
 <center><em>Discussing mindset and making goals with mindset coach Laura Weibert.</em></center>
 
+<center>&nbsp;</center>
 
 With all the chaos happening in the real estate market, we can feel like our minds are spinning a million miles a minute. We may begin to doubt ourselves and what we know because so many changes are occurring constantly. So today we have Lauren Weibert, a mindset coach, with us to discuss what to do when you feel stuck or in chaos. Or sometimes we’re successful, but we have difficulties showing our team how to reach that success too, and a mindset coach can help with that as well.
 
