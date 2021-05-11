@@ -20,7 +20,7 @@ home_display: true
 
 <center>&nbsp;</center>
 
-With all the chaos happening in the real estate market, we can feel like our minds are spinning a million miles a minute. We may begin to doubt ourselves and what we know because so many changes are occurring constantly. So today we have Lauren Weibert, a mindset coach, with us to discuss what to do when you feel stuck or in chaos. Or sometimes we’re successful, but we have difficulties showing our team how to reach that success too, and a mindset coach can help with that as well.
+With all the chaos happening in the real estate market, we can feel like our minds are spinning a million miles a minute. We may begin to doubt ourselves and what we know because so many changes are occurring constantly. So today we have Lauren Weibert, a mindset coach, with us to discuss what to do when you feel stuck or in chaos. Sometimes we’re successful, but we have difficulties showing our team how to reach that success too, and a mindset coach can help with that as well.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video.**
 
