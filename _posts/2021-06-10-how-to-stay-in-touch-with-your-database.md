@@ -14,7 +14,7 @@ home_display: true
 ---
 {% include youtube.html %}
 
-Here are a couple of the ways we stay in touch with our past clients.
+*Here are a couple of the ways we stay in touch with our past clients.*
 
 Beyond just being my past clients’ go-to person for all their real estate needs, **I like to send out postcards to them.** Now, I understand that in all likelihood, those postcards are headed straight to the trash, so I want them to be impactful and inspiring on their way to the garbage. On these postcards, I include:
 
