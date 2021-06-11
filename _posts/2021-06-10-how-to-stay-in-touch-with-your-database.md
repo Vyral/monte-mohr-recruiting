@@ -16,7 +16,7 @@ home_display: true
 
 *Here are a couple of the ways we stay in touch with our past clients.*
 
-Beyond just being my past clients’ go-to person for all their real estate needs, **I like to send out postcards to them.** Now, I understand that in all likelihood, those postcards are headed straight to the trash, so I want them to be impactful and inspiring on their way to the garbage. On these postcards, I include:
+Once you’ve finished a transaction with a client, it’s important to keep in contact with them. Beyond just being my past clients’ go-to person for all their real estate needs, **I like to send out postcards to them.** Now, I understand that in all likelihood, those postcards are headed straight to the trash, so I want them to be impactful and inspiring on their way to the garbage. On these postcards, I include:
 
 * A picture of me so that the clients know who is inspiring them
 * A call to action on the back that touches on what’s important to them
