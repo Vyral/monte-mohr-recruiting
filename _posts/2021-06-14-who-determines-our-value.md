@@ -32,4 +32,4 @@ As real estate professionals, who determines our worth? Nowadays, it seems as th
 
 7:16 — The recipe for making a ‘cake’ of worth: Value comes from the right ingredients
 
-Hopefully you found this to be an insightful discussion. As always, if you have questions or comments about anything mentioned in this video or want to discuss any other real estate topics, please feel free to reach out. We always love having honest conversations about what it means to raise the bar for our industry.
+Hopefully, you found this to be an insightful discussion. As always, if you have questions or comments about anything mentioned in this video or want to discuss any other real estate topics, please feel free to reach out. We always love having honest conversations about what it means to raise the bar for our industry.
