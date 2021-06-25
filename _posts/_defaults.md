@@ -15,4 +15,6 @@ home_display: true
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 {% include pullquote.html %}
