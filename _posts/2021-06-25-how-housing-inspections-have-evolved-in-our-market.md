@@ -23,7 +23,7 @@ home_display: true
 ---
 {% include youtube.html %}
 
-*Here's how the popularity of new construction firms is affecting housing inspections.&nbsp;*
+{% include excerpt.html %}
 
 On this episode of “The Talk of Music City Real Estate,” Jason Hoover and Carey Ann Cyr are in the studio once again—this time to help me talk about housing inspections. This is an evolving situation in our market. A lack of inventory has put new construction firms in the catbird seat when it comes to dictating contract terms. As you can imagine, this has created a few complications for agents and consumers alike.&nbsp;
 
