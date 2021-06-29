@@ -7,13 +7,15 @@ tags:
 excerpt: >-
   Here’s how the popularity of new construction firms is affecting housing
   inspections. 
-enclosure: s3://vyralmarketing/Monte Mohr/2021/Monte Mohr HomeInspections.mp4
+enclosure: >-
+  s3://vyralmarketing/Monte Mohr/2021/UPDATED 6-29-21 Monte Mohr
+  HomeInspections.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/MM6.16.21YT(1).jpg
-youtube_code: 0H3vfoe6v0U
+youtube_code: Y9MW_7OnG-c
 home_display: true
 ---
 {% include youtube.html %}
