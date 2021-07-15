@@ -5,7 +5,8 @@ date: 2021-07-06 00:00:00
 tags:
   - Real Estate
 excerpt: Let’s get back to enjoying the process of running a business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/Real+Estate+Isn%E2%80%99t+the+Destination%2C+It%E2%80%99s+the+Journey.mp4
 pullquote: In our industry, success is ultimately defined by each business owner.
 enclosure_type: video/mp4
 enclosure_time:
