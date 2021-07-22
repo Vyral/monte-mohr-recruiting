@@ -3,7 +3,7 @@ layout: post
 title: Learning From Other Businesses Can Help You Become Better At Your Trade
 date: 2021-07-19 00:00:00
 tags:
-  - Free Training
+  - Real Estate
 excerpt: 'Today’s episode of “The Talk of Music City Real Estate” features JB Biffle. '
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/TOMCRE+-+JB+Biffle+-+Pt+1.mp4
