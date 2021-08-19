@@ -23,14 +23,14 @@ Today we’re sharing another great excerpt from a recent episode of “The Talk
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to skip to topics that interest you most:**
 
-0:44- Why scammers target buyers
+0:44 — Why scammers target buyers
 
-4:00- Why wire fraud scams are unavoidable in this industry
+4:00 — Why wire fraud scams are unavoidable in this industry
 
-5:00- A story of a recent wire fraud scam of a very well-known mortgage broker
+5:00 — A story of a recent wire fraud scam of a very well-known mortgage broker
 
-6:45- How Chris eliminates digital security risks where he can
+6:45 — How Chris eliminates digital security risks where he can
 
-9:30- Why we can’t always control every aspect of security in a transaction
+9:30 — Why we can’t always control every aspect of security in a transaction
 
 If you have any questions for us about any topics covered in this wide-ranging discussion, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
