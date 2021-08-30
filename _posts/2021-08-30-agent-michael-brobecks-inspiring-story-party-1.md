@@ -22,18 +22,18 @@ Today we have guest Michael Brobeck here with us to discuss his incredible story
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
-0:00: Introduction to today’s topic
+0:00—Introduction to today’s topic
 
-1:00: We all have to pay a price to become the best version of ourselves
+1:00—We all have to pay a price to become the best version of ourselves
 
-3:10: Michael’s tough childhood
+3:10—Michael’s tough childhood
 
-4:30: When things began to change for Michael
+4:30—When things began to change for Michael
 
-5:25: How wrestling in high school taught him discipline
+5:25—How wrestling in high school taught him discipline
 
-6:30: Michael reached his goal and became one of the top five wrestlers in the state
+6:30—Michael reached his goal and became one of the top five wrestlers in the state
 
-7:50: Wrapping up today’s topic
+7:50—Wrapping up today’s topic
 
 Keep a lookout for part two of Michael’s story, coming soon. If you ever have any real estate questions, call or email us. We would love to help you.
