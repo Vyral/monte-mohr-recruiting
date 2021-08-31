@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Agent Michael Brobeck’s Inspiring Story, Party 1
+title: Agent Michael Brobeck’s Inspiring Story, Part 1
 date: 2021-08-30 15:24:19
 tags:
   - Reviews and Referrals
 excerpt: Here’s part one of agent Michael Brobeck’s unbelievable story.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/Agent+Michael+Brobeck%E2%80%99s+Inspiring+Story%2C+Part+1.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /8-26-21yt-mohr.jpg
 youtube_code: fA22GOLMOBM
 home_display: true
