@@ -4,7 +4,8 @@ title: Michael Brobeck’s Inspiring Story
 date: 2021-09-07 22:07:09
 tags:
 excerpt: Here’s our conversation with Michael Brobeck about his unbelievable story.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/Michael+Brobeck%E2%80%99s+Inspiring+Story.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
