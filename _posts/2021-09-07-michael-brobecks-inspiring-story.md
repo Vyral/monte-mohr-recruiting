@@ -18,4 +18,6 @@ home_display: true
 
 {% include excerpt.html %}
 
-Today we have special guest Michael Brobeck here with us to discuss his incredible story. His difficult childhood circumstances and the challenges he faced afterward led to where he is today. Despite a difficult childhood riddled with poverty, setbacks, hunger, and a drug-addicted mother, he pulled himself up. **Now he gives back to our community as a real estate agent** on our team, and we felt his story deserved to be told. Watch our conversation above to hear his full story.
+Today we have special guest Michael Brobeck here with us to discuss his incredible story. His difficult childhood circumstances and the challenges he faced afterward led to where he is today. Despite a difficult childhood riddled with poverty, setbacks, hunger, and a drug-addicted mother, he pulled himself up. **Now he gives back to our community as a real estate agent** on our team, and we felt his story deserved to be told. Watch our conversation above to hear his full story.&nbsp;
+
+As always, if you have any real estate-related questions, feel free to give us a call. We'd love to help you with anything you need.
