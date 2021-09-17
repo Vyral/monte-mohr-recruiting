@@ -5,7 +5,8 @@ date: 2021-09-17 17:11:35
 tags:
   - Free Training
 excerpt: Alissa Thompson joined us recently to talk about all things real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/A+Conversation+With+Real+Estate+Rockstar+Alissa+Thompson.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
