@@ -5,7 +5,8 @@ date: 2021-09-30 19:49:08
 tags:
   - Lead Generation
 excerpt: Here’s our conversation with Blake Johnson on internal foundations.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2021/How+a+Strong+Internal+Foundation+Leads+to+Success.mp4
 pullquote: We need to be mindful of our self-talk and what messages we say to ourselves.
 enclosure_type: video/mp4
 enclosure_time:
