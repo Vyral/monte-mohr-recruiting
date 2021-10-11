@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /8-5-21-monte-m--yt.jpg
 youtube_code: 7-7i4UMs3hQ
-home_display: true
+home_display: false
 ---
 {% include youtube.html %}
 
