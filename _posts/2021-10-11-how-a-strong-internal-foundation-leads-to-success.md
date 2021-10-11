@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How a Strong Internal Foundation Leads to Success
-date: 2021-09-30 19:49:08
+date: 2021-10-11 19:49:00
 tags:
   - Lead Generation
 excerpt: Here’s our conversation with Blake Johnson on internal foundations.
