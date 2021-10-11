@@ -21,7 +21,7 @@ home_display: true
 
 What do you think about when you’re starting your business? I’ve always said that to be a good business owner, you have to ask a lot of questions. Today I’m talking with Blake Johnson about what methods he uses to strengthen his business.&nbsp;
 
-For Blake, he teaches weekly classes on foundations. **For him, you can never build a strong business without a strong foundation.** Would you rather build a house on sand or stone? For most people the answer is obvious, and when you’re building a business, it is no different.&nbsp;
+Our company offers weekly foundation classes and Blake supports these meetings. **For him, you can never build a strong business without a strong foundation.** Would you rather build a house on sand or stone? For most people the answer is obvious, and when you’re building a business, it is no different.&nbsp;
 
 Blake also thinks we need to get our mindset right before we can achieve our goals. He says, **“Our interior is far superior to our exterior.”** What he means by this is that we need to be mindful of our self-talk and what messages we say to ourselves. Whether you are serving someone a Starbucks drink or helping executives find high-end housing, mindset can make all the difference.&nbsp;
 
