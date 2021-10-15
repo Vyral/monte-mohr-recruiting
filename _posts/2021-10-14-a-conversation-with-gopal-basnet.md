@@ -34,4 +34,4 @@ Today we’re here with Gopal Basnet, who has an amazing story to share with us 
 
 5:30—Working as an employment program coordinator in Nashville
 
-We’re so happy that Gopal was able to join us and share his story (albeit a very abbreviated version). If you know of anyone with a story like Gopal’s that deserves to be shared with the world, or if you have any questions, don’t hesitate to reach out to us.
+We’re so happy that Gopal was able to join us and share his story (albeit a very abbreviated version). If you know of anyone with a story like Gopal’s that deserves to be shared with the world or if you have any questions, don’t hesitate to reach out to us.
