@@ -18,7 +18,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-Today we’re here with Gopal Basnet, who has an amazing story to share with us about the challenges that have helped him become who he is. Gopal moved to the United States from Nepal in 2009, and though he’s only 36 years old, he’s stuffed a lot of life into that span.
+Today we’re here with Gopal Basnet, who has an **[amazing story to share](https://www.podbean.com/site/EpisodeDownload/PB103037FNNJIB)** with us about the challenges that have helped him become who he is. Gopal moved to the United States from Nepal in 2009, and though he’s only 36 years old, he’s stuffed a lot of life into that span.
 
 **For your convenience, we’ve provided timestamps below to allow you to navigate our discussion at your leisure:**
 
