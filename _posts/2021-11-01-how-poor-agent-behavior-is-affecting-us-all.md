@@ -18,13 +18,13 @@ home_display: true
 
 {% include excerpt.html %}
 
-We’re back with another episode of The Talk of Music City. This time, we covered a number of different topics, including poor agent behavior, what we’re doing to protect our reputation, and the challenges that we’re facing these days with none other than Jason Hoover.
+We’re back with another episode of "The Talk of Music City". This time, we covered a number of different topics, with none other than Jason Hoover including poor agent behavior, what we’re doing to protect our reputation, and the challenges that we’re facing these days.
 
 **Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
 0:30—Why I’m angry at the behavior of some agents out there
 
-2:35—Why our reputation as agents is under attack and what we’re doing to protect it
+2:35—Why our reputation as agents is under attack, and what we’re doing to protect it
 
 4:00—The reason why some people avoid working with real estate professionals
 
