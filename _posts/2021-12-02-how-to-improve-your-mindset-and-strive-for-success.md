@@ -20,7 +20,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-Hey guys. Today, I’m sharing a short clip from my new business podcast, The Space Between Your Ears. In today’s clip, the gang and I go over how we prepare mentally to be the best agents we can be.&nbsp;
+Hey guys. Today, I’m sharing a short clip from my new business podcast, The Talk of Music City. In today’s clip, the gang and I go over how we prepare mentally to be the best agents we can be. We're also joined by Lauren Weibert, a Proctor Gallagher Consultant who teaches her clients how to think into their results.
 
 {% include pullquote.html %}
 
