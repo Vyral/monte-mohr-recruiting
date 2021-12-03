@@ -30,4 +30,4 @@ We start off by discussing ways we can get in the right mindset while working fr
 
 Later, Lauren runs us through her process to get her mind in the right place for business. Her process comes from Bob Proctor, and it’s called Thinking Into Results. **She says the number one question people need to ask themselves is, “Am I ready to invest in myself?”** Transformation takes both time and money, so you need to be willing to commit before you really get started. She doesn’t focus on one-hour training sessions or behavioral changes; rather, she’s looking to teach people how to think.&nbsp;&nbsp;
 
-If any of this sounds interesting to you, check out our full podcast, The Space Between Your Ears. Also, if you have any questions, do not hesitate to reach out to me. I’m always willing to help.
+If any of this sounds interesting to you, check out our full podcast, The Talk of Music City. Also, if you have any questions, do not hesitate to reach out to me. I’m always willing to help.
