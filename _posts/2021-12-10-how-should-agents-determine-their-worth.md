@@ -18,7 +18,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-Today, we’re bringing you another clip from our podcast. In today’s episode, we’re discussing many topics, including how do you determine your worth as an agent? A lot of agents have an issue where they don’t feel like their services are being valued like they should. If you’re an agent in this position, what should you do? Is the market the ultimate factor in how much you get paid, or should you assert your self—worth?&nbsp;
+Today we’re bringing you another clip from our podcast. In today’s episode, we’re discussing many topics, including how you determine your worth as an agent. A lot of agents have an issue where they don’t feel like their services are being valued as they should. If you’re an agent in this position, what should you do? Is the market the ultimate factor in how much you get paid, or should you assert your self-worth?&nbsp;
 
 **You can listen to our full conversation in the video above, or you can skip around to each topic using the timestamps below:&nbsp;**
 
