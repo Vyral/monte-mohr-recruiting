@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Attitude And Communication In Real Estate '
+title: 'Attitude and Communication in Real Estate '
 date: 2021-12-27 00:00:00
 tags:
 excerpt: 'Here’s an excerpt from Alissa Thompson’s appearance on our podcast. '
@@ -17,11 +17,11 @@ home_display: true
 
 {% include excerpt.html %}
 
-Recently, we had the pleasure of hosting Alissa Thompson on our podcast. Today, we’re sharing part three of that episode with you. We discuss how to deal with other agents who try to bully you, communication in the real estate world, and much more.&nbsp;
+Recently, we had the pleasure of hosting Alissa Thompson on our podcast. Today we’re sharing part three of that episode with you. We discuss how to deal with other agents who try to bully you, communication in the real estate world, and much more.&nbsp;
 
 **You can watch the full excerpt above, or you can skip to each topic using the timestamps provided below:**
 
-0:05 — Dealing with bullying agents&nbsp;
+0:05 — Dealing with agents who try to bully you&nbsp;
 
 1:34 — Why you should always communicate with the other agent&nbsp;
 
@@ -34,3 +34,5 @@ Recently, we had the pleasure of hosting Alissa Thompson on our podcast. Today, 
 9:03 — Work with your clients’ love languages
 
 10:25 — Failing to plan is planning to fail
+
+If you have questions about this or any other real estate topic, feel free to call or email us. We look forward to hearing from you.
