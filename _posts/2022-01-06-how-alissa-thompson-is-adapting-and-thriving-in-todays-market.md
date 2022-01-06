@@ -4,7 +4,8 @@ title: How Alissa Thompson Is Adapting and Thriving in Today’s Market
 date: 2022-01-06 00:00:00
 tags:
 excerpt: Here’s the second installment of our recent interview with Alissa Thompson.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/Monte+Mohr+Alissa+Thompson+Pt+2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
