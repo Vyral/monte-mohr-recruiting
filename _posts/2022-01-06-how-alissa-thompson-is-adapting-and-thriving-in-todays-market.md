@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/tomcre-thumb---alissa-thompson.png
+youtube_alternate_image: /uploads/1-7-22yt.jpg
 youtube_code: 82sIK88SIZI
 home_display: true
 ---
