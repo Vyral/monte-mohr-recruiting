@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Communicate Your Value Concerning New Construction
-date: 2022-01-13 00:00:00
+date: 2022-01-18 00:00:00
 tags:
 excerpt: Here is how you can better communicate your value to buyers.
 enclosure: >-
