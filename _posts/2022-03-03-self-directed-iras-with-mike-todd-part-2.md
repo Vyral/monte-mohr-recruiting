@@ -19,7 +19,7 @@ home_display: true
 
 Welcome back to part two of my discussion with Mike Todd from IRA Innovations, where we’re rounding out our conversation about self-directed IRAs. Last time, we talked about how real estate is an excellent investment alternative to the stock market in terms of forming a retirement plan. Today we’re diving deeper into the topic by talking about funding your IRA with cash, private lending practices, and real estate investments.
 
-**Follow along in the video above or else use the timestamps below to navigate the video at your leisure:**
+**Follow along in the video above or use the timestamps below to navigate the video at your leisure:**
 
 0:00 — Introduction
 
@@ -35,4 +35,4 @@ Welcome back to part two of my discussion with Mike Todd from IRA Innovations, w
 
 6:30 — Conclusion
 
-Hopefully this video helped to give you some helpful insight. If you have any other questions about self-directed IRAs, retirement plans, or real estate investing, don’t hesitate to reach out to us. We’d love to hear from you.
+Hopefully this video gave you some helpful insight. If you have any other questions about self-directed IRAs, retirement plans, or real estate investing, don’t hesitate to call or email us. We’d love to hear from you.
