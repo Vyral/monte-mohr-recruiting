@@ -52,13 +52,13 @@ client:
   market: Middle Tennessee
   brand: Realty ONE Group Music City
   brokerage:
-  address: 2920 Berry Hill Dr.#210 <br> Nashville, TN 37204
-  phone: 615-925-0204
+  address: '2920 Berry Hill Dr #210<br>Nashville, TN 37204'
+  phone: (615) 925-0204
   phone_type: Office
-  phone2: 615-300-8393
+  phone2: (615) 300-8393
   phone2_type: Mobile
   email: monte@realtyonemusiccity.com
-  url: http://www.realtyonegroupmusiccity.com/
+  url: http://www.realtyonegroupmusiccity.com
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Build Your Real Estate Career?
