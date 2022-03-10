@@ -3,8 +3,10 @@ layout: post
 title: Self-Directed IRAs with Mike Todd, Part 2
 date: 2022-03-03 00:00:00
 tags:
+  - Retirement
 excerpt: We’re back to continue our conversation about self-directed IRAs.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2022/Self-Directed+IRAs+with+Mike+Todd%2C+Part+2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
