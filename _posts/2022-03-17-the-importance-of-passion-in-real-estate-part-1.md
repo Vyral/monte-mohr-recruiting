@@ -34,4 +34,4 @@ A few weeks ago on a huddle call, I did something unusual. I brought on a newer 
 
 7:40 — Chrissy’s biggest takeaways from the book
 
-Stay tuned for our next video where we’ll continue our discussion on passion in the real estate business. If you have any questions about “The Passion Conversation,” how to find your passion, or anything else related to the real estate business, don’t hesitate to reach out via phone or email today. We look forward to hearing from you.
+Stay tuned for our next video, where we’ll continue our discussion on passion in the real estate business. If you have any questions about “The Passion Conversation,” how to find your passion, or anything else related to the real estate business, don’t hesitate to reach out via phone or email today. We look forward to hearing from you.
