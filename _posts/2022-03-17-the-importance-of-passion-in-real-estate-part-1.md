@@ -5,7 +5,8 @@ date: 2022-03-17 00:00:00
 tags:
   - Transaction Management
 excerpt: Passion and  success in the real estate business go hand in hand.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2022/The+Importance+of+Passion+in+Real+Estate_+Part+1.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
