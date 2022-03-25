@@ -18,7 +18,9 @@ home_display: true
 
 {% include excerpt.html %}
 
-A few weeks ago on a huddle call, I did something unusual. I brought on a newer team member to talk about something near and dear to her heart. Her purpose for selling real estate is to help fund a ministry in Kenya, and when she started talking about it, I felt her passion. Today we’re taking a closer look at passion and the role it plays in a successful real estate business.
+If you aren’t passionate about what you do, why do you even do it? Passion is huge in the real estate business, and each of us found ours in different ways. Today we’re talking about the importance of passion and taking a closer look at a book called, “The Passion Conversation.” It has a ton of great information that anybody can benefit from, but there are some especially good nuggets for real estate agents.
+
+Chrissy, our Agent Success Manager, helps us take a closer look at passion and the role it plays in a successful real estate business.
 
 **Feel free to watch the full video, or use these timestamps to browse specific topics at your leisure:**
 
@@ -28,7 +30,7 @@ A few weeks ago on a huddle call, I did something unusual. I brought on a newer 
 
 2:07 — Where does Chrissy’s passion come from?
 
-3:42 — How Carrie developed her passion for the business
+3:42 — How Carey Ann developed her passion for the business
 
 6:00 — Why you should read “The Passion Conversation”
 
