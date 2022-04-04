@@ -26,7 +26,7 @@ In today’s episode, we’re joined by TJ Ojehomon, another one of our fantasti
 
 0:44 — One important thing Monte noticed about TJ when he joined the team
 
-1:05 — TJ shares his journey, from banking to real estate
+1:05 — TJ shares his journey from banking to real estate
 
 5:00 — How he made the jump to being a full-time agent in June 2021 and what helped him make that leap
 
