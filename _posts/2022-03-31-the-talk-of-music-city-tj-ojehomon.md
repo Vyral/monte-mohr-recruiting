@@ -18,7 +18,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-In today’s episode, we’re joined by TJ Ojehomon, another one of our fantastic agents. He’s one of those agents who is really making things happen out there, and we sat down with him to discuss his quick rise and dissect the process that has led to his success:
+In today’s episode, we’re joined by TJ Ojehomon, another one of our fantastic agents. He’s one of those agents who is truly making things happen out there, and we sat down with him to discuss his quick rise and dissect the process that has led to his success.
 
 **Feel free to watch the full video, or use these timestamps to browse specific topics at your leisure:**
 
