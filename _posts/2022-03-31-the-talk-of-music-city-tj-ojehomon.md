@@ -5,7 +5,8 @@ date: 2022-03-31 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Here’s how TJ has become a top agent within his first year in the business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monte+Mohr/2022/The+Talk+of+Music+City_+TJ+Ojehomon.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
