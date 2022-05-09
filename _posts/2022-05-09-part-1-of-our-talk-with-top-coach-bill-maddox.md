@@ -18,8 +18,6 @@ home_display: true
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Coach Bill Maddox is our latest guest on “The Talk of Music City.” He’s the CEO of Blue Dress Inc., an internet marketing company. He has a ton of great insight into the market, becoming known in a commoditized industry like real estate, and how he has found success as both a real estate investor and coach. In part one of our conversation, Bill is sharing his story, his best advice for Realtors, and what he’s learned from his failures.
 
 **Feel free to watch the full interview, or use these timestamps to browse specific topics at your leisure:**
