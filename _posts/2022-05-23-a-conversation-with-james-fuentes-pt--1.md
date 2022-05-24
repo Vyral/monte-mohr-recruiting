@@ -17,7 +17,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-Today on “Talk Music City,” we’re joined by real estate agent James Fuentes to discuss his history in the industry and what makes him such a stand-out agent. I’ve been in the real estate business for almost 40 years, and even I’m amazed at how someone can succeed at the level that James has.
+Today on “The Talk of Music City,” we’re joined by real estate agent James Fuentes to discuss his history in the industry and what makes him such a stand-out agent. I’ve been in the real estate business for almost 40 years, and even I’m amazed at how someone can succeed at the level that James has.
 
 **Feel free to follow along in the video above or use the timestamps below to navigate the conversation at your leisure:**
 
