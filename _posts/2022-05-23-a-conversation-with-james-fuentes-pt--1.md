@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Conversation With James Fuentes, Pt. 1
+title: A Conversation With James Fuertes, Pt. 1
 date: 2022-05-23 19:10:57
 tags:
-excerpt: Talking with agent James Fuentes about his journey in real estate.
+excerpt: Talking with agent James Fuertes about his journey in real estate.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-Today on “The Talk of Music City,” we’re joined by real estate agent James Fuentes to discuss his history in the industry and what makes him such a stand-out agent. I’ve been in the real estate business for almost 40 years, and even I’m amazed at how someone can succeed at the level that James has.
+Today on “The Talk of Music City,” we’re joined by real estate agent James Fuertes to discuss his history in the industry and what makes him such a stand-out agent. I’ve been in the real estate business for almost 40 years, and even I’m amazed at how someone can succeed at the level that James has.
 
 **Feel free to follow along in the video above or use the timestamps below to navigate the conversation at your leisure:**
 
