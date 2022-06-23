@@ -22,7 +22,7 @@ In today’s clip from The Talk of Music City, we’re talking about a topic rel
 
 **Feel free to watch the full video or use these timestamps to browse specific topics at your leisure:**
 
-0:00 — Introduciton
+0:00 — Introduction
 
 0:30 — Intro to “Who Not How”
 
