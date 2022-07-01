@@ -34,4 +34,4 @@ Today we’re talking about a gentleman who has not only had a huge impact on ou
 
 10:18 — Jason isn’t as much of a morning person
 
-If you have any questions, feel free to call or email me. I’d love to hear from you.
+If you have any questions, feel free to call or email us. We’d love to hear from you.
