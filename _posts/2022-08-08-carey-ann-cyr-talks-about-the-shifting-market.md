@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carey Ann Cyr Talks About the Shifting Market
-date:
+date: 2022-08-07 00:00:00
 tags:
 excerpt: An industry expert talks about market changes and helping clients.
 enclosure:
