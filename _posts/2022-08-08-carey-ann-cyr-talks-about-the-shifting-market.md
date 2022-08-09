@@ -17,13 +17,13 @@ home_display: true
 
 {% include excerpt.html %}
 
-We’re past mid-year, and there’s no doubt about it now—the market is shifting. Today we’ll hear from our very own Carey Ann Cyr talk about what changes have happened in our market and how it affects not just buyers and sellers but also agents like ourselves. As an industry expert and one of the top lenders in the country, she has valuable insights that will surely shed some light on our crazy market.
+We’re past mid-year, and there’s no doubt about it now—the market is shifting. Today we’ll hear from our very own Carey Ann Cyr about what has changed in our market and how it affects not just buyers and sellers but also agents like ourselves. As an industry expert and one of the top lenders in the country, she has valuable insights that will surely shed some light on our crazy market.
 
 **Feel free to watch the full interview or use these timestamps to browse specific topics at your leisure:**
 
 0:00 — Introduction
 
-0:31 — Carey Ann Cyr and her team is top 3 in the country
+0:31 — Carey Ann Cyr and her team are among the top three in the country
 
 1:28 — Cash deals made a comeback recently
 
