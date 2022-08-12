@@ -3,7 +3,7 @@ layout: post
 title: You Can’t Have a Great Career Without Passion
 date: 2022-08-08 00:00:00
 tags:
-excerpt: 'You Can’t Have a Great Career Without Passion '
+excerpt: 'You can’t have a great career without passion. '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ home_display: false
 
 {% include excerpt.html %}
 
-Today we want to follow up on a recent conversation we shared about passion. In real estate, it’s easy to fall into a rut. You might think that becoming successful is the difficult part, but maintaining the same passion you had at the beginning of your career is the true challenge. We’ll discuss finding your reason to get out of bed in the morning, word-of-mouth marketing, and more.&nbsp;
+Today we follow up on a recent conversation we shared about passion. In real estate, it’s easy to fall into a rut. You might think that becoming successful is the difficult part, but maintaining the same passion you had at the beginning of your career is the true challenge. We’ll discuss finding your reason to get out of bed in the morning, word-of-mouth marketing, and more.&nbsp;
 
 **You can listen to our full conversation in the video above or skip to each topic using the timestamps provided:**
 
