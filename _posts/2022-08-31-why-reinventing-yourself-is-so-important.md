@@ -28,6 +28,22 @@ Today we’re continuing our conversation with a truly brilliant real estate min
 
 **You can listen to our full conversation in the video above or skip to each topic using the timestamps provided:**
 
-{% include pullquote.html %}
+0:00 — The importance of playing to your strengths
 
-If you have questions about today’s topic or anything else, please call or email us. We are always willing to help\!&nbsp;
+1:55 — Build your strategy around your strengths
+
+3:03 — Once you have your strategy, you have to commit
+
+4:01 — You don’t have to change careers to reinvent yourself, but you have to reinvent yourself
+
+5:09 — If you stay in your comfort zone, you won’t get anywhere
+
+6:38 — Challenge yourself to change
+
+7:23 — Commit, commit, commit
+
+8:11 — Wrapping things up
+
+&nbsp;
+
+If you have questions about today’s topic or anything else, please call or email us. We are always willing to help\!
