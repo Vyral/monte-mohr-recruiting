@@ -3,6 +3,7 @@ layout: post
 title: How James Fuertes Navigated the Pandemic
 date: 2022-09-08 00:00:00
 tags:
+  - Free Training
 excerpt: James Fuertes joins us once again to discuss finding success as an agent.
 enclosure:
 pullquote:
