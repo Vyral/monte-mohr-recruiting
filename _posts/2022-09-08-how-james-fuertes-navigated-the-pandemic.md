@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How James Fuertes Navigated the Pandemic
+title: Achieving Success With James Fuertes
 date: 2022-09-08 00:00:00
 tags:
   - Free Training
@@ -37,5 +37,7 @@ Recently, we had a wide-ranging conversation with James Fuertes about his career
 9:18 — What James’ team looks like
 
 9:49 — Wrapping things up
+
+[**Click here to watch part one\!**](https://youtu.be/zbNtqrApd9s){: target="_blank" rel="noopener"}
 
 If you have questions about this conversation or anything else, please call or email us. We are always willing to help\!
