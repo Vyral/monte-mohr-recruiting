@@ -6,7 +6,7 @@ tags:
   - Free Training
   - Reviews and Referrals
   - Lead Generation
-excerpt: Mike Todd from IRA Innovations talks about self-directed IRAs.  |
+excerpt: 'Mike Todd from IRA Innovations talks about self-directed IRAs.  '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
