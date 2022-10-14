@@ -18,7 +18,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-Today we’re talking with Gabriel Sedlak about controlling and leveraging your mindset as the key to success. This is critical, not just in real estate but in all different businesses. Gabriel is a father, husband, entrepreneur, speaker, trainer, podcaster, coach, and author who has spent more than 30 years in the home-based sales industry. He is telling us how self-sabotage and mindset are the keys to why someone isn’t winning in their industry.
+Today we’re talking with Gabriel Sedlak about controlling and leveraging your mindset as the key to success. This is critical, not just in real estate but in all different businesses. Gabriel is a father, husband, entrepreneur, speaker, trainer, podcaster, coach, and author who has spent more than 30 years in the home-based sales industry. He is telling us how self-sabotage and mindset can stop someone from winning in their industry.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
