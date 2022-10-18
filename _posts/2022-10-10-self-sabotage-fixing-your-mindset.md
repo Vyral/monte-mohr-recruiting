@@ -20,7 +20,7 @@ home_display: true
 
 Today we’re talking with Gabriel Sedlak about controlling and leveraging your mindset as the key to success. This is critical, not just in real estate but in all different businesses. Gabriel is a father, husband, entrepreneur, speaker, trainer, podcaster, coach, and author who has spent more than 30 years in the home-based sales industry. He is telling us how self-sabotage and mindset can stop someone from winning in their industry.
 
-**Feel free to watch the full podcast [here](https://talkmusiccity.podbean.com)**
+**Feel free to watch the full podcast [H](https://talkmusiccity.podbean.com/e/ep-169-dialing-in-your-mindset-gabriel-sedlak/)[ERE](https://talkmusiccity.podbean.com/e/ep-169-dialing-in-your-mindset-gabriel-sedlak/)**
 
 If you have any questions about this topic, send them to [questions@talkmusiccity.com](mailto:questions@talkmusiccity.com). We would love to hear from you and hear how you are working against your self-sabotage mindset\!
 
