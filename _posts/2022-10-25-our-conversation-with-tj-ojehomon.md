@@ -17,7 +17,7 @@ home_display: true
 
 {% include excerpt.html %}
 
-How can you take your real estate business to the next level? We think the best way to learn is from successful people, which is why today we’re bringing you the second part of our conversation with TJ Ojehomon. If you missed it, you can check out part one here. He successfully elevated his business recently and has a lot to say about how he did it.&nbsp;
+How can you take your real estate business to the next level? We think the best way to learn is from successful people, which is why today we’re bringing you the second part of our conversation with TJ Ojehomon. If you missed it, you can check out part one [here](https://youtu.be/-thgWKBJXO4). He successfully elevated his business recently and has a lot to say about how he did it.&nbsp;
 
 **You can listen to our full conversation in the video above or skip to each topic using the timestamps provided:**
 
